@@ -96,7 +96,7 @@
     "patterns": [
         {
             "id" : "com.ibm.etools.mft.pattern.dynamictocrm",
-            "name": "Event Filter",
+            "name": "Dynamic Input, Account Entity Output",
             "category_id": "com.ibm.etools.mft.pattern.dotnet.dynamictocrm",            
             "doc_url": "http://bthomps.github.io/dynamic-to-crm-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
