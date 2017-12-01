@@ -122,17 +122,17 @@
             "id" : "com.ibm.AppConnectRESTRequestPattern",
             "name": "App Connect REST Request Pattern",
             "category_id": "categories.Id15f72d7edbe913687c836fd81b5",            
-            "doc_url": "http://ot4i.github.io/dynamic-to-crm-pattern/pattern/en/overview.htm",
+            "doc_url": "http://ot4i.github.io/appconnectrestrequest-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
               { "number" : 1.0,
                 "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.feature.group",
-                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.NL.feature.group",
+                "feature_group_name" : "com.ibm.AppConnectRESTRequestPattern.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.AppConnectRESTRequestPattern.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/dynamic-to-crm-pattern/releases/download/V1.0/DynamicToCRM.patternzip",
-                "patternzipSize" : "4444 KB"
+                "patternzipURL" : "https://github.com/ot4i/appconnectrestrequest-pattern/releases/download/V1.0/AppConnectRESTRequest.patternzip",
+                "patternzipSize" : "563 KB"
               }
             ]
         },
