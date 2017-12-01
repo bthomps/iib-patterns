@@ -131,7 +131,7 @@
                 "feature_group_name" : "com.ibm.AppConnectRESTRequestPattern.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.AppConnectRESTRequestPattern.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/appconnectrestrequest-pattern/releases/download/V1.0/AppConnectRESTRequest.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/appconnectrestrequest-pattern/releases/download/V1.0/AppConnectRESTRequestPattern.patternzip",
                 "patternzipSize" : "563 KB"
               }
             ]
