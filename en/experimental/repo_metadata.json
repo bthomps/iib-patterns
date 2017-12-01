@@ -120,7 +120,7 @@
         },
   {
             "id" : "com.ibm.AppConnectRESTRequestPattern",
-            "name": "App Connect REST Request Pattern",
+            "name": "App Connect REST Pattern",
             "category_id": "categories.Id15f72d7edbe913687c836fd81b5",            
             "doc_url": "http://ot4i.github.io/appconnectrestrequest-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
